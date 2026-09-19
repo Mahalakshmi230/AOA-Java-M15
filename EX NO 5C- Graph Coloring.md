@@ -1,6 +1,9 @@
 
 # EX 5C Graph coloring
 ## DATE: 09.09.2026
+## NAME: MAHALAKSHMI R
+## REG NO: 212223230116
+
 ## AIM:
 To write a Java program to for given constraints.
 Problem Description:
